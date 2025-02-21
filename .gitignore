@@ -1,0 +1,5 @@
+venv/
+.env
+temp.py
+__pycache__/
+main2.py
