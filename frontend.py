@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 # Set the FastAPI backend URL
-API_URL = "http://localhost:8000/chat/"
+API_URL = "https://tailortalk.onrender.com/chat/"
 
 st.title("🚢 Titanic AI Chatbot")
 st.markdown("Ask anything about the Titanic dataset!")
